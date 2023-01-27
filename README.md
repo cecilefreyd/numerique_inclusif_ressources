@@ -1,6 +1,12 @@
 Ressources autours du numériques responsable
 =======
 
+Transverse
+------
+
+* Checklist qualité web Opquast https://checklists.opquast.com/fr/assurance-qualite-web/
+* B.a-ba du Numérique Responsable http://numeriqueresponsable.org/
+
 Ressources accessibilité 
 ------
 
@@ -13,6 +19,7 @@ Ressources accessibilité
 * Accessibility not checklist https://not-checklist.intopia.digital/
 * a11y guidelines (Orange) https://a11y-guidelines.orange.com/fr/
 * La Lutine du Web https://www.lalutineduweb.fr/blog/
+* W3C Accessibility Fundamentals Overview  https://www.w3.org/WAI/fundamentals/
 
 Ressources inclusion
 ------
@@ -22,3 +29,13 @@ Ressources inclusion
 * a11y guidelines (Orange) https://a11y-guidelines.orange.com/fr/
 * Illustrations inclusives gratuites https://blush.design/fr
 * Ecrire en FALC https://www.unapei.org/publication/linformation-pour-tous-regles-europeennes-pour-une-information-facile-a-lire-et-a-comprendre/
+
+Ressources eco-conception
+------
+
+* Un repo de sites éco-conçus (et jolis) https://lowww.directory/
+* Toolbox numérique responsable https://sustainableit-tools.isit-europe.org/?cat=9
+* Sustainable webdesign https://sustainablewebdesign.org/
+* Référentiel d’état d’éco-conception numérique (RGESN) https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/
+* Eco-conception web : 115 bonnes pratiques https://www.notion.so/leopoldine/fd0c45a479454ab3b9692139449b7873?v=a94ac394eb7444c4a2a95466ee859698
+
