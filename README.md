@@ -19,6 +19,6 @@ Ressources inclusion
 
 * Principes de conception inclusive https://not-checklist.intopia.digital/
 * Microsoft Inclusive Toolkit https://www.microsoft.com/design/inclusive/
-* a11y guidelines (Orange) 
+* a11y guidelines (Orange) https://a11y-guidelines.orange.com/fr/
 * Illustrations inclusives gratuites https://blush.design/fr
 * Ecrire en FALC https://www.unapei.org/publication/linformation-pour-tous-regles-europeennes-pour-une-information-facile-a-lire-et-a-comprendre/
