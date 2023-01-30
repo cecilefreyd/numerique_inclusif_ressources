@@ -29,6 +29,7 @@ Ressources inclusion
 * a11y guidelines (Orange) https://a11y-guidelines.orange.com/fr/
 * Illustrations inclusives gratuites https://blush.design/fr
 * Ecrire en FALC https://www.unapei.org/publication/linformation-pour-tous-regles-europeennes-pour-une-information-facile-a-lire-et-a-comprendre/
+* Guide pratique sur la diversité de genre en design UX/UI https://uxetgenre.com/
 
 Ressources eco-conception
 ------
