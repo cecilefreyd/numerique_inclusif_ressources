@@ -39,6 +39,7 @@ Ressources eco-conception
 * [Sustainable webdesign](https://sustainablewebdesign.org/)
 * [Référentiel d’état d’éco-conception numérique (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
 * [Eco-conception web : 115 bonnes pratiques](https://www.notion.so/leopoldine/fd0c45a479454ab3b9692139449b7873?v=a94ac394eb7444c4a2a95466ee859698)
+* [Le guide d’écoconception de services numériques de Designers Ethiques](https://eco-conception.designersethiques.org/guide/fr/)
 
 Ressources privacy
 ------
