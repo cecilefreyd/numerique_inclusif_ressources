@@ -24,19 +24,24 @@ Ressources accessibilité
 Ressources inclusion
 ------
 
-* Principes de conception inclusive https://not-checklist.intopia.digital/
-* Microsoft Inclusive Toolkit https://www.microsoft.com/design/inclusive/
-* a11y guidelines (Orange) https://a11y-guidelines.orange.com/fr/
-* Illustrations inclusives gratuites https://blush.design/fr
-* Ecrire en FALC https://www.unapei.org/publication/linformation-pour-tous-regles-europeennes-pour-une-information-facile-a-lire-et-a-comprendre/
-* Guide pratique sur la diversité de genre en design UX/UI https://uxetgenre.com/
+* [Principes de conception inclusive] (https://not-checklist.intopia.digital/)
+* [Microsoft Inclusive Toolkit]( https://www.microsoft.com/design/inclusive/)
+* [a11y guidelines (Orange)]( https://a11y-guidelines.orange.com/fr/)
+* [Illustrations inclusives gratuites] (https://blush.design/fr)
+* [Ecrire en FALC] (https://www.unapei.org/publication/linformation-pour-tous-regles-europeennes-pour-une-information-facile-a-lire-et-a-comprendre/)
+* [Guide pratique sur la diversité de genre en design](UX/UI https://uxetgenre.com/)
 
 Ressources eco-conception
 ------
 
-* Un repo de sites éco-conçus (et jolis) https://lowww.directory/
-* Toolbox numérique responsable https://sustainableit-tools.isit-europe.org/?cat=9
-* Sustainable webdesign https://sustainablewebdesign.org/
-* Référentiel d’état d’éco-conception numérique (RGESN) https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/
-* Eco-conception web : 115 bonnes pratiques https://www.notion.so/leopoldine/fd0c45a479454ab3b9692139449b7873?v=a94ac394eb7444c4a2a95466ee859698
+* [Un repo de sites éco-conçus (et jolis)] https://lowww.directory/
+* [Toolbox numérique responsable] https://sustainableit-tools.isit-europe.org/?cat=9
+* [Sustainable webdesign] https://sustainablewebdesign.org/
+* [Référentiel d’état d’éco-conception numérique (RGESN)] https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/
+* [Eco-conception web : 115 bonnes pratiques] https://www.notion.so/leopoldine/fd0c45a479454ab3b9692139449b7873?v=a94ac394eb7444c4a2a95466ee859698
 
+Ressources privacy
+------
+
+* [Laboratoire d'innovation numérique de la CNIL] (https://linc.cnil.fr/)
+* [Données & Design: plateforme, outil et communauté pour les designers] (https://linc.cnil.fr/fr/donnees-design-plateforme-outil-et-communaute-pour-les-designers)
