@@ -43,5 +43,5 @@ Ressources eco-conception
 Ressources privacy
 ------
 
-* [Laboratoire d'innovation numérique de la CNIL] (https://linc.cnil.fr/)
-* [Données & Design: plateforme, outil et communauté pour les designers] (https://linc.cnil.fr/fr/donnees-design-plateforme-outil-et-communaute-pour-les-designers)
+* [Laboratoire d'innovation numérique de la CNIL](https://linc.cnil.fr/)
+* [Données & Design: plateforme, outil et communauté pour les designers](https://linc.cnil.fr/fr/donnees-design-plateforme-outil-et-communaute-pour-les-designers)
