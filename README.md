@@ -6,6 +6,7 @@ Transverse
 
 * [Checklist qualité web Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/)
 * [B.a-ba du Numérique Responsable](http://numeriqueresponsable.org/)
+* [Ressources Communication Responsable](https://fir-ixia-5c3.notion.site/Ressources-Communication-Responsable-1cd6d9ce93754dc1b68af4dcfedd9006#674e77a94377428f9161af42074b1b0f)
 
 Ressources accessibilité 
 ------
