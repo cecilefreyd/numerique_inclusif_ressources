@@ -55,7 +55,7 @@ Liens de la conférence "Le numérique c'est pour tout le monde... ou paass"
 
 Liens de la bibliographie
 
-* [Baromètre du numérique 2021 : les principaux résultats]https://labo.societenumerique.gouv.fr/fr/articles/barom%C3%A8tre-du-num%C3%A9rique-2021-les-principaux-r%C3%A9sultats/),  Labo Société Numérique, ANCT, 2021]
+* [Baromètre du numérique 2021 : les principaux résultats](https://labo.societenumerique.gouv.fr/fr/articles/barom%C3%A8tre-du-num%C3%A9rique-2021-les-principaux-r%C3%A9sultats/),  Labo Société Numérique, ANCT, 2021
 * [Illectronisme et numérisation des services publics](https://blocnotes.iergo.fr/articles/illectronisme-et-numerisation-des-services-publics/), Raphaël Yharrassarry, Parisweb 2022
 * [Moins d’un Français sur cinq estime que les relations avec les administrations se sont simplifiées (Baromètre numérique 2019)](https://labo.societenumerique.gouv.fr/fr/articles/moins-dun-fran%C3%A7ais-sur-cinq-estime-que-les-relations-avec-les-administrations-se-sont-simplifi%C3%A9es-barom%C3%A8tre-num%C3%A9rique-2019/, Labo Société Numérique, ANCT, 2019
 * [Dématérialisation des services publics : une obligation de connectivité qui pèse sur les publics les plus fragiles….](https://labo.societenumerique.gouv.fr/fr/articles/d%C3%A9mat%C3%A9rialisation-des-services-publics-une-obligation-de-connectivit%C3%A9-qui-p%C3%A8se-sur-les-publics-les-plus-fragiles/), Labo Société Numérique, ANCT, 2019
