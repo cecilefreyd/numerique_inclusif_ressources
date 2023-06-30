@@ -51,7 +51,9 @@ Ressources privacy
 
 Liens de la conférence "Le numérique c'est pour tout le monde... ou paass"
 ------
-[Slides de la version Devoxxfrance 2023](https://docs.google.com/presentation/d/1AiRSffeh-GOFTnkzVLA_5hoVjTgH3n5S9rl8buzOwfQ/edit?usp=sharing)
+*[Slides de la version SunnyTech 2023](https://docs.google.com/presentation/d/1wjE7dABTdEFtipXzblbV3RrEa4tOD-qTomHwl0BstuA/edit?usp=sharing)
+*[Slides de la version Devoxxfrance 2023](https://docs.google.com/presentation/d/1AiRSffeh-GOFTnkzVLA_5hoVjTgH3n5S9rl8buzOwfQ/edit?usp=sharing)
+
 
 Liens de la bibliographie
 
@@ -86,4 +88,6 @@ Liens de la bibliographie
 * [Section 1 : Des discriminations (Articles 225-1 à 225-4)](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070719/LEGISCTA000006165298/), Legifrance
 * [Quand des algorithmes notent les allocataires de la Caf, France Inter](https://www.radiofrance.fr/franceinter/quand-des-algorithmes-notent-les-allocataires-de-la-caf-2569619?fbclid=IwAR3bZX7Oyk0AI1jRB8XRYjgYjga2yiEPqlCuNrqX6FXgRcHuKmxpGYkx0f4), cellule d’Investigation de Radio France
 * [Lutte contre les discriminations et promotion de l'égalité](https://www.defenseurdesdroits.fr/fr/institution/competences/lutte-contre-discriminations), Défenseur des Droits
+* [Rapport : lutte contre la fraude aux prestations sociales : à quel prix pour les droits des usagers ?](https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/rapportfraudessociales-v6-06.09.17_0.pdf), Defenseur des droits, 2017
+* [caf : le numérique au service de l'exclusion et du harcèlement des plus précaires](https://www.laquadrature.net/2022/10/19/caf-le-numerique-au-service-de-lexclusion-et-du-harcelement-des-plus-precaires/), La Quadrature du Net, octobre 2022
 
